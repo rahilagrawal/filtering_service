@@ -9,8 +9,8 @@ export class AppController {
   constructor(private readonly appService: AppService) { }
 
   @Post('filteredData')
-  getData(@Query('search') search: string, @Body() filters: { filters: number[] }): DataViewModel[] {
+  getData(@Query('search') search: string, @Body() filters: number[]): DataViewModel[] {
 
-    return this.appService.getData(search, filters.filters);
+    return this.appService.getData(search, filters);
   }
 }
