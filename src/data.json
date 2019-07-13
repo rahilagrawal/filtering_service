@@ -1,0 +1,161 @@
+[{
+    "name": "Fable Coffee",
+    "type": ["Coffee", "Cafe", "Chocolate"],
+    "reviews": 265,
+    "price": "$",
+    "address": "1/128 Darlinghurst Rd",
+    "filters": [4, 3, 6],
+    "image": "https://www.sciencenews.org/sites/default/files/main/articles/100315_coffee_opener_NEW_0.jpg"
+}, {
+    "name": "Pusher Espresso Bar",
+    "type": ["Coffee", "Cafe", "Chocolate"],
+    "reviews": 705,
+    "price": "$$$",
+    "address": "3/1-11 Oxford St",
+    "filters": [0, 2, 5, 8, 6],
+    "image": "https://www.sciencenews.org/sites/default/files/main/articles/100315_coffee_opener_NEW_0.jpg"
+}, {
+    "name": "Paramount Coffee Project",
+    "type": ["Coffee", "Cafe", "Chocolate"],
+    "reviews": 560,
+    "price": "$$",
+    "address": "80 Commonwealth St",
+    "filters": [4, 0, 5],
+    "image": "https://www.sciencenews.org/sites/default/files/main/articles/100315_coffee_opener_NEW_0.jpg"
+}, {
+    "name": "Ampersand Cafe & Bookstore",
+    "type": ["Coffee", "Cafe", "Chocolate"],
+    "reviews": 442,
+    "price": "$$$",
+    "address": "78 Oxford St",
+    "filters": [0, 5, 6],
+    "image": "https://hhp-blog.s3.amazonaws.com/2018/07/iStock-673468996.jpg"
+}, {
+    "name": "Bootsdarling",
+    "type": ["Coffee", "Cafe", "Chocolate"],
+    "reviews": 244,
+    "price": "$$$",
+    "address": "333 S Dowling St",
+    "filters": [9, 4, 3],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+}, {
+    "name": "Pablo & Rusty's Sydney CBD",
+    "type": ["Coffee", "Cafe", "Chocolate"],
+    "reviews": 450,
+    "price": "$$",
+    "address": "161 Castlereagh St",
+    "filters": [6, 7, 5, 0, 9],
+    "image": "https://www.sciencenews.org/sites/default/files/main/articles/100315_coffee_opener_NEW_0.jpg"
+}, {
+    "name": "Veneziano Coffee",
+    "type": ["Coffee", "Cafe", "Chocolate"],
+    "reviews": 728,
+    "price": "$$",
+    "address": "352 Bourke St",
+    "filters": [3],
+    "image": "https://www.sciencenews.org/sites/default/files/main/articles/100315_coffee_opener_NEW_0.jpg"
+}, {
+    "name": "Normcore Coffee Roasters",
+    "type": ["Coffee", "Cafe", "Chocolate"],
+    "reviews": 641,
+    "price": "$",
+    "address": "209 Castlereagh St",
+    "filters": [7, 8, 6, 2, 1],
+    "image": "https://hhp-blog.s3.amazonaws.com/2018/07/iStock-673468996.jpg"
+}, {
+    "name": "Berkelouw Caf\u00e9 1812",
+    "type": ["Coffee", "Cafe", "Chocolate"],
+    "reviews": 772,
+    "price": "$$$",
+    "address": "Berkelouw Books, Level One/19 Oxford St",
+    "filters": [2, 4, 5, 7, 6],
+    "image": "https://hhp-blog.s3.amazonaws.com/2018/07/iStock-673468996.jpg"
+}, {
+    "name": "Cafe Con Leche",
+    "type": ["Coffee", "Cafe", "Chocolate"],
+    "reviews": 242,
+    "price": "$",
+    "address": "104 Fitzroy St",
+    "filters": [3, 5, 9],
+    "image": "https://hhp-blog.s3.amazonaws.com/2018/07/iStock-673468996.jpg"
+}, {
+    "name": "Palace Chinese Restaurant",
+    "type": ["Chinese"],
+    "reviews": 602,
+    "price": "$$$",
+    "address": "Piccadilly Tower, Shop 38 Level 1",
+    "filters": [7, 0, 8, 2],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+}, {
+    "name": "Madame Shanghai",
+    "type": ["Chinese"],
+    "reviews": 452,
+    "price": "$",
+    "address": "18 College St",
+    "filters": [4, 2, 7, 9, 8],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+}, {
+    "name": "Lynn Shanghai Cuisine",
+    "type": ["Chinese"],
+    "reviews": 203,
+    "price": "$$",
+    "address": "199 Castlereagh St",
+    "filters": [1, 4],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+}, {
+    "name": "Chinatown Noodle King",
+    "type": ["Chinese"],
+    "reviews": 410,
+    "price": "$",
+    "address": "1/357 Sussex St",
+    "filters": [5, 1, 8, 4],
+    "image": "https://www.sciencenews.org/sites/default/files/main/articles/100315_coffee_opener_NEW_0.jpg"
+}, {
+    "name": "Lotus The Galeries",
+    "type": ["Chinese"],
+    "reviews": 491,
+    "price": "$$$",
+    "address": "Level 1/500 George St",
+    "filters": [6, 9, 2, 1],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+}, {
+    "name": "Chefs Gallery",
+    "type": ["Chinese"],
+    "reviews": 380,
+    "price": "$$",
+    "address": "Regent Place Ground Floor",
+    "filters": [9, 0],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+}, {
+    "name": "Fortune Village Chinese Restaurant",
+    "type": ["Chinese"],
+    "reviews": 321,
+    "price": "$$$",
+    "address": "209 Clarence St",
+    "filters": [9, 7, 4, 5],
+    "image": "https://www.sciencenews.org/sites/default/files/main/articles/100315_coffee_opener_NEW_0.jpg"
+}, {
+    "name": "Din Tai Fung",
+    "type": ["Chinese"],
+    "reviews": 775,
+    "price": "$$",
+    "address": "Shop 11.04, Level 1/644 George St",
+    "filters": [1, 8],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+}, {
+    "name": "Sea Bay Restaurant",
+    "type": ["Chinese"],
+    "reviews": 511,
+    "price": "$",
+    "address": "372 Pitt St",
+    "filters": [0, 5, 1, 7, 9],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+}, {
+    "name": "Doodles Noodles",
+    "type": ["Chinese"],
+    "reviews": 595,
+    "price": "$",
+    "address": "1/209 Castlereagh St",
+    "filters": [1, 8, 5, 0],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+}]
