@@ -13,6 +13,5 @@
     "resolveJsonModule": true,
     "esModuleInterop": true
   },
-  "exclude": ["node_modules"],
-  "allowJs": true
+  "exclude": ["node_modules"]
 }
